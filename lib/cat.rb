@@ -15,4 +15,5 @@ class Cat
     @@cats
   end 
   
+  #comment
 end
